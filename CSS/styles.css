@@ -1,0 +1,43 @@
+body{
+  background-image: url(https://images.alphacoders.com/458/thumb-1920-458169.jpg);
+}
+
+img{
+  width: 500px;
+  margin-left:40%;
+}
+
+
+h1{
+  text-shadow: black;
+  align-self: center;
+  margin-left: 45%;
+  color: #323232;
+
+}
+
+hr{
+  width: 5%;
+  margin-left: 50%;
+
+  border-style: dotted none none;
+  border-width:5px;
+  border-color:#f3c623;
+}
+
+.wow{
+  width:100px;
+  border-radius: 100%;
+  margin-left:51%;
+}
+
+#intro{
+  color: White;
+  margin-left: 49.50%;
+}
+
+#contact{
+
+  color: White;
+  margin-left: 49.50%;
+}
